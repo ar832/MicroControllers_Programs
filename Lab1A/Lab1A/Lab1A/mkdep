@@ -1,0 +1,1 @@
+-a -f project.dep -p./std/obj/ -o.o -- -I/tools/include -I./lib -I./std -I.   -- 

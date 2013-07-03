@@ -1,0 +1,26 @@
+Starting MAKE...
+creating project.mk 
+
+name translation failed on E:/Program\ Files/CYPRES~1/PSOCDE~1/5.4/Common/CY110F~1 - 3
+
+name translation failed on E:\Program - 2
+
+name translation failed on Files\CYPRES~1\PSOCDE~1\5.4\Common\CY110F~1\tools\include\CY8C29~1 - 3
+
+CAUTION there are no library files
+
+!E ./main.asm(5): file 'm8c.inc' not found in current directory or in include path(s)
+
+
+
+!E ./main.asm(7): file 'PSoCAPI.inc' not found in current directory or in include path(s)
+
+
+
+make: *** [obj/main.o] Error 1
+
+make: *** Deleting file `obj/main.o'
+
+ 
+Lab1A - 4 error(s) 0 warning(s) 23:21:28
+
